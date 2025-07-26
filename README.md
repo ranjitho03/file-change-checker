@@ -30,7 +30,8 @@ You can use this tool to:
 ### 🪜 Step-by-Step
 
 1. **Download or save** the Python file:  
-   `file_change_checker.py`
+   ` python .\file_change_checker.py`
+
 
 2. **Open a terminal or command prompt**
 
